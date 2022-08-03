@@ -1,5 +1,7 @@
-# Porject Movie Cards Library
+# Project Movie Cards Library! 📽️​
 My first project using React.js!
+
+![image](./public/images/Captura%20de%20tela%20de%202022-08-03%2015-18-50.png)
 
 ---
 
