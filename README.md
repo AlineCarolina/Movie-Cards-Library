@@ -35,8 +35,4 @@ And start the project:
 ```
 $ npm start
 ```
-
-
-
-
 ---
