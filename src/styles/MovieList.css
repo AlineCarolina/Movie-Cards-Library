@@ -1,0 +1,9 @@
+.movie-list {
+  display: flex;
+  flex-direction: row;
+  flex-flow: wrap;
+  background-color: rgb(179, 179, 179);
+  justify-content: space-around;
+  padding: 3%;
+}
+  
